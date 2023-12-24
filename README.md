@@ -7,5 +7,5 @@
 
 Goldbach's conjecture is one of the oldest unsolved problems in number theory.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png" width="400px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png" width="400px"/> The image shown shows the number of ways in which a number n can be written as a sum of two primes for n ≤ 1 000 000
 
