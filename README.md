@@ -11,9 +11,9 @@ Goldbach's conjecture is one of the oldest unsolved problems in number theory.
 
 The image shown shows the number of ways in which a number n can be written as a *sum of two primes* for n ≤ 1 000 000
 For example:
-     *  4 = 2 + 2
-     *  6 = 3 + 3
-     *  8 = 3 + 5
-     * 10 = 3 + 7 = 5 + 5
-     * 12 = 5 + 7
-     * 14 = 3 + 11 = 7 + 7
+*  4 = 2 + 2
+*  6 = 3 + 3
+*  8 = 3 + 5
+* 10 = 3 + 7 = 5 + 5
+* 12 = 5 + 7
+* 14 = 3 + 11 = 7 + 7
