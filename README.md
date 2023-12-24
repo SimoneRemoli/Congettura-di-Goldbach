@@ -1,5 +1,5 @@
 <h1 align="center">
-  Congettura-di-Goldbach 
+  Goldbach's conjecture
   <img src="https://thatsmaths.files.wordpress.com/2021/02/goldbach-triangle-easycalculation.jpg" width="30px"/>
 </h1>
 
