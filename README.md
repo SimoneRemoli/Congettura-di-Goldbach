@@ -21,7 +21,7 @@ For example:
 * 12 = 5 + 7
 * 14 = 3 + 11 = 7 + 7
 
-* 
+  
 In 1742, the Prussian mathematician Christian Goldbach wrote a letter to Euler in which he proposed the following conjecture:
 
      **Every integer greater than 5 can be written as a sum of three prime numbers.**
