@@ -11,6 +11,8 @@ Goldbach's conjecture is one of the oldest unsolved problems in number theory.
 
 The image shown shows the number of ways in which a number n can be written as a *sum of two primes* for n ≤ 1 000 000.
 
+
+
 For example:
 *  4 = 2 + 2
 *  6 = 3 + 3
@@ -18,3 +20,14 @@ For example:
 * 10 = 3 + 7 = 5 + 5
 * 12 = 5 + 7
 * 14 = 3 + 11 = 7 + 7
+
+* 
+In 1742, the Prussian mathematician Christian Goldbach wrote a letter to Euler in which he proposed the following conjecture:
+
+     **Every integer greater than 5 can be written as a sum of three prime numbers.**
+
+Euler, taking an interest in the problem, responded by reformulating the problem in the following equivalent version:
+
+     Every even number greater than 2 can be written as the sum of two prime numbers.
+
+Euler's version is the form in which the conjecture is currently formulated and is sometimes also called the strong Goldbach conjecture. Goldbach's weak conjecture, which is implied by the strong conjecture, asserts that all odd numbers greater than 5 can be written as a sum of three primes.
