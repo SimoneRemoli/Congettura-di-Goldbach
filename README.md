@@ -24,7 +24,7 @@ For example:
   
 In 1742, the Prussian mathematician Christian Goldbach wrote a letter to Euler in which he proposed the following conjecture:
 
-     **Every integer greater than 5 can be written as a sum of three prime numbers.**
+     Every integer greater than 5 can be written as a sum of three prime numbers.
 
 Euler, taking an interest in the problem, responded by reformulating the problem in the following equivalent version:
 
