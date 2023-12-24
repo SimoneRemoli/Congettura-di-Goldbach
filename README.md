@@ -31,3 +31,10 @@ Euler, taking an interest in the problem, responded by reformulating the problem
      Every even number greater than 2 can be written as the sum of two prime numbers.
 
 Euler's version is the form in which the conjecture is currently formulated and is sometimes also called the strong Goldbach conjecture. Goldbach's weak conjecture, which is implied by the strong conjecture, asserts that all odd numbers greater than 5 can be written as a sum of three primes.
+
+The statement formulated by Christian Goldbach is a "conjecture", therefore, in principle, it is a hypothesis. This means that it could be:
+
+     True, i.e. all even numbers greater than 2 can be expressed as the sum of two prime numbers;
+     False, i.e. there exists at least one even number greater than 2 which cannot be written as the sum of two prime numbers.
+
+Both hypotheses are open, and scholars from all over the world are following different paths to find a solution to what has become in all respects an enigma.
